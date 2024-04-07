@@ -4,7 +4,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/API-red?style=flat-square&logo=Finalizado">
 <img alt="Static Badge" src="https://img.shields.io/badge/UniFacef-blue?style=flat-square&logo=Finalizado">
 <img alt="Static Badge" src="https://img.shields.io/badge/Pokemon-orange?style=flat-square&logo=Finalizado">
-<img alt="Static Badge" src="https://img.shields.io/badge/Running-green?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/Corrida-green?style=flat-square&logo=Finalizado">
 <img alt="Static Badge" src="https://img.shields.io/badge/Busca_CEP-purple?style=flat-square&logo=Finalizado">
 
 ## Descrição do projeto 
