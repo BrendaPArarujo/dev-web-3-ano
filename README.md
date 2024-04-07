@@ -25,7 +25,7 @@ O sistema é composta por 3 principais projetos. Um projeto sobre Pokemon que fa
 ![Imagens do projeto.](./imagens/pagina_home.png)
 ![Imagens do projeto.](./imagens/pagina_sobre.png)
 ![Imagens do projeto.](./imagens/pokemon.png)
-![Imagens do projeto.](./imagens/busca_cep.png)
+![Imagens do projeto.](./imagens/busca_cep2.png)
 ![Imagens do projeto.](./imagens/opcoes_corrida.png)
 ![Imagens do projeto.](./imagens/5km.png)
 ![Imagens do projeto.](./imagens/10km.png)
