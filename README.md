@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+<h1 align="center"> Trabalho de desenvolvimento Web - Unifacef - 5 Semestre </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img alt="Static Badge" src="https://img.shields.io/badge/reactJS-yellow?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/API-red?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/UniFacef-blue?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pokemon-orange?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/Running-green?style=flat-square&logo=Finalizado">
+<img alt="Static Badge" src="https://img.shields.io/badge/Busca_CEP-purple?style=flat-square&logo=Finalizado">
 
-## Available Scripts
+## Descrição do projeto 
 
-In the project directory, you can run:
+<p align="justify">
+Projeto desenvolvido para a disciplina de desenvolvimento web I na UniFacef.
 
-### `npm start`
+O sistema é composta por 3 principais projetos. Um projeto sobre Pokemon que faz o uso da PokeAPI(https://pokeapi.co/api/v2/pokemon/), um projeto para busca de CEP que utiliza a API ViaCEP (https://viacep.com.br/), e por fim uma página que utiliza as rotas dinâmicas para fornecer informações sobre diferentes distâncias de corridas de rua.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Funcionalidades do projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- `Funcionalidade 1`: Header que permite a navegação entre as principais funções do site
+- `Funcionalidade 2`: Pokedex
+- `Funcionalidade 3`: Busca CEP
+- `Funcionalidade 4`: Descrição sobre os tempos de diferentes distâncias de corrida de rua (Utilização de rotas dinâmicas)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Imagens do projeto.](./imagens/pagina_home.png)
+![Imagens do projeto.](./imagens/pagina_sobre.png)
+![Imagens do projeto.](./imagens/pokemon.png)
+![Imagens do projeto.](./imagens/busca_cep.png)
+![Imagens do projeto.](./imagens/opcoes_corrida.png)
+![Imagens do projeto.](./imagens/5km.png)
+![Imagens do projeto.](./imagens/10km.png)
+![Imagens do projeto.](./imagens/21km.png)
+</p>
 
-### `npm run build`
+# 📁 Acesso ao projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Acesso Online**
+https://dev-web-3-ano-lmv7.vercel.app/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Clone o repositório**
+- `Passo 1`: Copie a URL do repositório clicando em "Code"
+- `Passo 2`: No seu terminal, digite "git clone cole-aqui-a-URL-copiada"
+- `Passo 3`: Autentique-se no github caso não esteja utilizando uma chave SSH
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# 🛠️ Abrir e rodar o projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Instruções de instalação e execução**
+- `Passo 1`: Entre no diretório que o código foi clonado
+- `Passo 2`: digite "npm install"
+- `Passo 3`: Execute o comando "npm start"
+- `Passo 4`: Será aberta uma página em seu browser padrão, com a aplicação que está sendo executada. http://localhost:3000

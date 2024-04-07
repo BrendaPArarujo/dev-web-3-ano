@@ -5,8 +5,10 @@ function Sobre() {
         <div>
             <h1>Bem-vindo a pagina Sobre</h1>
 
-            <Link to="/">Home</Link><br></br>
-            <Link to="/buscador">Buscador</Link>
+            <br/>
+            <h2>Temos 3 projetos principais: </h2><br/>
+                <p>PokeAPI, ViaCEP e uma página que utiliza as rotas dinâmicas para fornecer informações sobre corrida de rua.</p><br/>
+                <p>Utilize o navegador de páginas para visitar essas funcionalidades.</p>
         </div>
     )
 }
